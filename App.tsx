@@ -7,7 +7,7 @@ import {
 
 function App(){
   return(
-    <SafeAreaView>
+    <SafeAreaView> 
     <View>
       <Text> hello world</Text>
       <Text> hello world</Text>
